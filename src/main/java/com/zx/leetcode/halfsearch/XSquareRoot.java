@@ -38,7 +38,7 @@ public class XSquareRoot {
         int low = 0;
         int high = x;
         //结果值
-        int ans = -1;
+        int ans = 0;
         while (low <= high) {
             int mid = (low + high) / 2;
             if (mid * mid <= x) {
@@ -60,7 +60,7 @@ public class XSquareRoot {
      */
     public static int newtonIterSqrt(int x) {
         if (x == 0) {
-            return -1;
+            return 0;
         }
         double c = x;
         double x0 = x;
