@@ -1,4 +1,4 @@
-package com.zx.leetcode.halfsearch;
+package com.zx.leetcode.halfsearch_easy;
 
 /**
  * 判断是否是完全平方数

@@ -1,4 +1,4 @@
-package com.zx.leetcode.halfsearch;
+package com.zx.leetcode.halfsearch_easy;
 
 /**
  * 查找一个数字在排序数组中出现的次数

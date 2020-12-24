@@ -1,4 +1,4 @@
-package com.zx.leetcode.halfsearch;
+package com.zx.leetcode.halfsearch_easy;
 
 /**
  * 魔术索引

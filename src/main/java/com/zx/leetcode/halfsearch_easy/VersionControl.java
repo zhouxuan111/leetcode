@@ -1,4 +1,4 @@
-package com.zx.leetcode.halfsearch;
+package com.zx.leetcode.halfsearch_easy;
 
 /**
  * 查询第一个错误版本
